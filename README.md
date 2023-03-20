@@ -22,3 +22,5 @@ seluruh dokumentasi catatan dan ide terkait dengan forensik digital untuk menjam
 9. Pelatihan dan kesadaran: Latih karyawan dan pengguna tentang pentingnya autentikasi arsip digital dan bagaimana menjaga keamanan arsip.
 
 10. Serangkaian perangkat lunak dan alat forensik: Gunakan perangkat lunak dan alat forensik digital yang telah teruji dan valid untuk memeriksa arsip digital dan memastikan autentikasi mereka.
+
+11. Teknologi Blockchain, teknologi blockchain untuk autentikasi arsip digital, dapat memperlihatkan keamanan, keaslian, dan integritas data atau arsip digital dengan lebih efektif. Teknologi blockchain memungkinkan pengguna untuk memverifikasi data atau arsip digital dengan lebih mudah dan memberikan bukti bahwa data atau arsip digital berasal dari sumber yang dapat dipercaya.
