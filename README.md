@@ -28,3 +28,6 @@ seluruh dokumentasi catatan dan ide terkait dengan forensik digital untuk menjam
 
 ### Jenis-jenis Arsip Digital 
 https://github.com/code4indo/PedomanForensikDigital/wiki/Jenis-Arsip-Digital
+
+### Peraturan dan Standar terkait dengan Autentikasi Arsip 
+https://github.com/code4indo/PedomanForensikDigital/wiki/Peraturan-dan-Standar-terkait-dengan-Autentikasi-Arsip
