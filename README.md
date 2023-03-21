@@ -34,3 +34,6 @@ https://github.com/code4indo/PedomanForensikDigital/wiki/Peraturan-dan-Standar-t
 
 ### Masalah besar yang bisa diselesaikan oleh forensik digital 
 https://github.com/code4indo/PedomanForensikDigital/wiki/Masalah-besar-yang-bisa-diselesaikan-oleh-forensik-digital
+
+### Potensi masalah dengan adanya Deep Fake 
+https://github.com/code4indo/PedomanForensikDigital/wiki/Potensi-masalah-dengan-adanya-Deep-Fake-terhadap-autentikasi-Arsip-Digital
