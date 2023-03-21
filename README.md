@@ -31,3 +31,6 @@ https://github.com/code4indo/PedomanForensikDigital/wiki/Jenis-Arsip-Digital
 
 ### Peraturan dan Standar terkait dengan Autentikasi Arsip 
 https://github.com/code4indo/PedomanForensikDigital/wiki/Peraturan-dan-Standar-terkait-dengan-Autentikasi-Arsip
+
+### Masalah besar yang bisa diselesaikan oleh forensik digital 
+https://github.com/code4indo/PedomanForensikDigital/wiki/Masalah-besar-yang-bisa-diselesaikan-oleh-forensik-digital1
